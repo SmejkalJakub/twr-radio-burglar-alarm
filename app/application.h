@@ -7,6 +7,9 @@
 
 #include <bcl.h>
 
+void bc_change_alarm_state(uint64_t *id, const char *topic, void *value, void *param);
+
+
 typedef struct
 {
     uint8_t channel;

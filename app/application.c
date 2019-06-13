@@ -19,9 +19,6 @@ bool isAlarmOn = false;
 
 bc_tick_t pir_next_pub = 0;
 
-void bc_change_alarm_state(uint64_t *id, const char *topic, void *value, void *param);
-
-
 static const bc_radio_sub_t subs[] = {
     {"alarm/-/set/state", BC_RADIO_SUB_PT_INT, bc_change_alarm_state, (void *) true}
 };
