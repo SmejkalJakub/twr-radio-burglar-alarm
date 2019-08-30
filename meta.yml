@@ -1,0 +1,8 @@
+article: https://www.hackster.io/jakub-smejkal/bigclown-smart-alarm-system-493d48
+images:
+  - title:
+    url: https://www.bigclown.com/kits/motion-detector/main.png
+assembly:
+  - name: BigClown PIR Module
+  - name: BigClown Core Module
+  - name: BigClown Mini Battery Module
