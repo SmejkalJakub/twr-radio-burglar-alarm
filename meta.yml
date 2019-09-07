@@ -1,4 +1,10 @@
 article: https://www.hackster.io/jakub-smejkal/bigclown-smart-alarm-system-493d48
+articles:
+  - title: BigClown Light Control of LED Strip
+    url: https://www.hackster.io/jakub-smejkal/bigclown-smart-alarm-system-493d48
+    description: Make an affordable but smart Alarm system for your home, or any of your buildings. It can run up to 2 years just from batteries.
+    images:
+      - url: https://hackster.imgix.net/uploads/attachments/888467/burglaralarm_pnoqQrcCCA.png?auto=compress%2Cformat&w=900&h=675&fit=min
 images:
   - title:
     url: https://www.bigclown.com/kits/motion-detector/main.png
