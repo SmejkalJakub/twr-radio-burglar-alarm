@@ -6,15 +6,16 @@
 #endif
 
 #include <bcl.h>
+#include <twr.h>
 
-void bc_change_alarm_state(uint64_t *id, const char *topic, void *value, void *param);
+void twr_change_alarm_state(uint64_t *id, const char *topic, void *value, void *param);
 
 
 typedef struct
 {
     uint8_t channel;
     float value;
-    bc_tick_t next_pub;
+    twr_tick_t next_pub;
 
 } event_param_t;
 
