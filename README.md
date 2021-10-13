@@ -2,7 +2,7 @@
 
 # Firmware for Low-Power burglar alarm
 
-[![Travis](https://img.shields.io/travis/bigclownprojects/bcf-radio-burglar-alarm/master.svg)](https://travis-ci.org/bigclownprojects/bcf-radio-burglar-alarm)
+[![build](https://github.com/hardwario/twr-radio-burglar-alarm/actions/workflows/main.yml/badge.svg)](https://github.com/hardwario/twr-radio-burglar-alarm/actions/workflows/main.yml)
 [![Release](https://img.shields.io/github/release/bigclownprojects/bcf-radio-burglar-alarm.svg)](https://github.com/bigclownprojects/bcf-radio-burglar-alarm/releases)
 [![License](https://img.shields.io/github/license/bigclownprojects/bcf-radio-burglar-alarm.svg)](https://github.com/bigclownprojects/bcf-radio-burglar-alarm/blob/master/LICENSE)
 [![Twitter](https://img.shields.io/twitter/follow/hardwario_en.svg?style=social&label=Follow)](https://twitter.com/hardwario_en)
